@@ -68,6 +68,8 @@ const USER_CONFIG = {
   
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     networkHotType: 'default',
+    //天气诗句
+     tqtype：true,
   },
 
 
