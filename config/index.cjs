@@ -50,7 +50,7 @@ const USER_CONFIG = {
   ],
    SLEEP_TIME: 65000,
 
-https://apis.tianapi.com/worldtime/index?key=52fa2d8d4aabdb7036eb2bff4d223fac&city=云南 
+
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
