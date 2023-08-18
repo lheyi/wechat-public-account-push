@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oANw-5nb6CTPb6B6ob1N10hLo7cU',
+      id: 'oANw-5iGAnC1rwhKejKQNoBisM_w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 	'7QbXcOUuuHBuWPodQQwFfFs-lyEHMqZ9SMY6Vu15vGA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -68,8 +68,7 @@ const USER_CONFIG = {
   
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     networkHotType: 'default',
-    //天气诗句
-     tqtype：true,
+  
   },
 
 
